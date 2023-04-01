@@ -1,9 +1,9 @@
 # MixQueue-MXQ _ ML Project Group 12
 <br>
-Shreya Patel - 100747036
-Sarah Long - 100067484
-Shreya Sharma - 100725334
-Tasfia Alam - 100584647
+Shreya Patel - 100747036<br>
+Sarah Long - 100067484<br>
+Shreya Sharma - 100725334<br>
+Tasfia Alam - 100584647<br>
 <br>
 
 
